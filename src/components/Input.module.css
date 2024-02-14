@@ -1,0 +1,21 @@
+.InputElement{
+    padding: 0.8rem 0.2rem;
+    border-radius:  0.6rem;
+    width: 100%;
+ 
+}
+.positon{
+   position: relative; 
+}
+.insideBox{
+    flex: 1;
+}
+.circle{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    top: 40%;
+    right: 1rem;
+}

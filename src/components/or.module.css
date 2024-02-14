@@ -1,0 +1,10 @@
+.orstyles{
+position: relative;
+
+}
+.ptag{
+    position: absolute;
+    top: -13px;
+    left: 48%;
+    background-color: white;
+}

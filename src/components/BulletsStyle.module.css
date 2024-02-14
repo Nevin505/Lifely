@@ -1,0 +1,16 @@
+.bulletsdiv{
+    display: flex;
+    padding: 0.2rem 0;
+}
+.roundedDiv{
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.para{
+    padding-left: 0.4rem;
+    color: white;
+}

@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    max-width: 70%;
+    margin: auto;
+    background-color: #6D9886;
+    padding: 7.5rem 5.4rem;
+}
